@@ -7,6 +7,12 @@ molecool
 
 The cool molecules
 
+##install instructions
+
+To install, run this command:
+'''python
+pip install -e .
+'''
 ### Copyright
 
 Copyright (c) 2024, Nikhila Chandran
