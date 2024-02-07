@@ -5,6 +5,8 @@
 
 Welcome to molecool's documentation!
 =========================================================
+molecule is a python package designed to rad in, perform analysis, and visualize molecular coordinates.
+
 
 .. toctree::
    :maxdepth: 2
@@ -12,7 +14,7 @@ Welcome to molecool's documentation!
 
    getting_started
    api
-
+   about
 
 
 Indices and tables
