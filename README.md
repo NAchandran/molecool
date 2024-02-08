@@ -12,6 +12,10 @@ The cool molecules
 To install, run this command:
 '''python
 pip install -e .
+
+##colab instructions
+submit a "Pull Request"
+I am Nikhila a PhD student
 '''
 ### Copyright
 
